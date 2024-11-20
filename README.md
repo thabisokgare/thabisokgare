@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**thabisokgare/thabisokgare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+Hi there! I'm Thabiso Kgare, an aspiring Software Developer passionate about building scalable, efficient, and impactful software solutions. I'm in my final year of studying Information Technology, majoring in Business Systems, and constantly exploring new ways to create value through code.
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java
+JavaScript
+HTML
+C# (currently learning and implementing projects)
+Technologies:
+
+Web Development
+Backend Systems (in progress)
+ERP Systems
+Development Tools:
+
+Git & GitHub
+Visual Studio Code
+IntelliJ IDEA
+📂 Projects
+Metaverse Explorer
+
+A proof-of-concept project that allows users to navigate virtual worlds.
+Focused on UX without relying on backend or 3D assets.
+Custom ERP Reporting Tool (Concept)
+
+Integrated ERP system prototype for generating financial and managerial reports.
+*[Include any additional C# or personal software projects here to showcase your focus on development]
+
+Check out more of my work on my GitHub profile!
+
+🎯 Current Focus
+Building full-stack development skills with C# for my startup ideas.
+They are improving software design and system architecture capabilities.
+I was collaborating on real-world business process analysis as part of my Work Integrated Learning Project.
+🌟 Goals
+I want to land a role as a software developer where I can contribute to meaningful projects.
+Continuously enhance my coding skills and expand my technical expertise.
