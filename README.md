@@ -24,11 +24,7 @@ IntelliJ IDEA
 Metaverse Explorer
 
 A proof-of-concept project that allows users to navigate virtual worlds.
-Focused on UX without relying on backend or 3D assets.
-Custom ERP Reporting Tool (Concept)
-
-Integrated ERP system prototype for generating financial and managerial reports.
-*[Include any additional C# or personal software projects here to showcase your focus on development]
+We are focused on UX without relying on the backend or 3D assets.
 
 Check out more of my work on my GitHub profile!
 
