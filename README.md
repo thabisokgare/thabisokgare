@@ -9,7 +9,7 @@ Languages:
 Java
 JavaScript
 HTML
-C# (currently learning and implementing projects)
+(currently learning C# and implementing projects)
 Technologies:
 
 Web Development
@@ -19,7 +19,7 @@ Development Tools:
 
 Git & GitHub
 Visual Studio Code
-IntelliJ IDEA
+NetBeans
 📂 Projects
 Metaverse Explorer
 
@@ -31,7 +31,7 @@ Check out more of my work on my GitHub profile!
 🎯 Current Focus
 Building full-stack development skills with C# for my startup ideas.
 They are improving software design and system architecture capabilities.
-I was collaborating on real-world business process analysis as part of my Work Integrated Learning Project.
+I collaborated on real-world business process analysis for my Work Integrated Learning Project.
 🌟 Goals
 I want to land a role as a software developer where I can contribute to meaningful projects.
 Continuously enhance my coding skills and expand my technical expertise.
