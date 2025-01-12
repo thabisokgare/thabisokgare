@@ -33,5 +33,5 @@ Building full-stack development skills with C# for my startup ideas.
  improving my  software design and system architecture capabilities.
 
 🌟 Goals
-I want to land a role as a software developer where I can contribute to meaningful projects.
+I want to land a role as a software developer or Business analyst  where I can contribute to meaningful projects.
 Continuously enhance my coding skills and expand my technical expertise.
