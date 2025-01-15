@@ -7,7 +7,7 @@
 
 - 👯 I’m currently working on [Dawn of Reckoning](https://github.com/thabisokgare/Dawn-OF-Reckoning)
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/thabisokgares-projects/thabiso](https://vercel.com/thabisokgares-projects/thabiso)
+- 👨‍💻 All of my projects are available at [https://thabiso-ten.vercel.app/)
 
 - 📫 How to reach me **thabisoryan8@gmail.com**
 
