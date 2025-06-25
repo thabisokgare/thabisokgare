@@ -1,13 +1,14 @@
 ## 👋 Hi, I’m Thabiso (Thabi) Kgare
 
-I’m a final-year IT student passionate about building full‑stack and DevOps solutions. I'm currently deepening my skills in **Next.js**, **C#/.NET**, **Docker**, and **Kubernetes**, and working on **NeoSave** — an AI‑powered personal finance app focused on budgeting, savings, and investment education.
+I'm an aspiring DevOps and full‑stack developer with a completed degree in IT. I’m currently building real-world solutions using **Next.js**, **C#/.NET**, **Docker**, and **Kubernetes**, while exploring how **AI** can be used to solve financial literacy challenges.
 
 ### 🚀 What I'm Building
-**NeoSave** empowers students, adults, and elderly users to:
-- 📊 Create personalized AI‑generated budgets using surveys and bank card transaction monitoring  
-- 🎓 Learn about saving and investing through gamified modules and a progress dashboard  
-- 💡 Receive AI‑driven insights on South African stock options, investment account comparisons, and future return projections  
-- 🔄 Instantly open investment accounts via one‑click integrations with local banks
+**NeoSave** is my flagship project — an AI‑powered personal finance app designed to help students, adults, and seniors:
+- 📊 Generate personalized budgets using surveys and bank card data  
+- 🎯 Track savings and spending via intuitive dashboards  
+- 🎓 Learn about investing with gamified content and progress tracking  
+- 💡 Receive AI insights on stocks, compare SA bank investment products, and simulate long-term returns  
+- 🔁 Open investment accounts with one click — all in a seamless, user-friendly interface
 
 ### 🔧 Tech Stack
 - **Frontend:** Next.js, TypeScript, React  
@@ -17,19 +18,19 @@ I’m a final-year IT student passionate about building full‑stack and DevOps 
 - **AI Tools:** LangChain, ML.NET, OpenAI API integrations
 
 ### 🎯 Current Focus
-- Building Dockerized and Kubernetes‑deployed applications  
-- Structuring clean APIs and CI/CD pipelines  
-- Strengthening AI/ML features and financial data modeling  
-- Adopting DevOps best practices for scalable architecture
+- Deploying production-grade apps with Docker & Kubernetes  
+- Designing clean APIs and setting up CI/CD pipelines  
+- Applying AI/ML to budget predictions and investment suggestions  
+- Following best practices in DevOps, testing, and software architecture
 
 ### 📩 Let’s Connect
 I’m open to:
-- Collaborations on full‑stack, DevOps, or AI projects  
-- Learning from experienced professionals in financial tech  
-- Opportunities as a junior DevOps or full‑stack engineer  
+- Collaborating on AI, full-stack, or DevOps projects  
+- Junior developer or DevOps/Cloud roles  
+- Mentorship and industry conversations  
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/thabiso-kgare) or drop me a message here!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/thabiso-kgare) or reach out here!
 
 ---
 
-🔗 *Always building, always learning.*  
+🔗 *Always building. Always improving. Always learning.*
